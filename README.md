@@ -19,6 +19,9 @@ sudo apt-get upgrade
 sudo apt-get python3
 sudo pip install os-sys-linux
 
+sudo apt-get install theharvester
+sudo apt-get install gobuster
+
 sudo git clone https://github.com/alperenugurlu/informationtool.git
 
 # How To Use ?

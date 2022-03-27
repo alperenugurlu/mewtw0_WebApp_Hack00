@@ -1,24 +1,27 @@
 import os
-nmap = os.system('apt-get' + ' ' + 'install' + '' + 'nmap')
+
+nmap = os.system('apt-get install nmap')
 print(nmap)
 
-dirb = os.system('apt' + ' ' + 'install' + '' + 'dirb')
+dirb = os.system('apt install dirb')
 print(dirb)
 
-gobuster = os.system('apt' + ' ' + 'install' + '' + 'gobuster')
+gobuster = os.system('apt install gobuster')
 print(gobuster)
 
-theharvester = os.system('apt' + ' ' + 'install' + '' + 'theharvester')
+theharvester = os.system('apt install theharvester')
 print(theharvester)
 
-dirsearch = os.system('apt' + ' ' + 'install' + '' + 'dirsearch')
+dirsearch = os.system('apt install dirsearch')
 print(dirsearch)
 
-metagoofil = os.system('apt' + ' ' + 'install' + '' + 'metagoofil')
+metagoofil = os.system('apt install metagoofil')
 print(metagoofil)
 
-subfinder = os.system('apt' + ' ' + 'install' + '' + 'subfinder')
+subfinder = os.system('apt install subfinder')
 print(subfinder)
 
-whois = os.system('apt' + ' ' + 'install' + '' + 'whois')
+whois = os.system('apt install whois')
 print(whois)
+
+

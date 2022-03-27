@@ -21,7 +21,7 @@ sudo apt-get upgrade
 
 sudo apt-get python3
 
-pip3 install requirements.txt 
+pip3 install -r requirements.txt 
 
 chmod 777 install.py
 

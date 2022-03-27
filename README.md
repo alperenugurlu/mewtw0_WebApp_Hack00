@@ -21,6 +21,8 @@ sudo apt-get upgrade
 
 sudo apt-get python3
 
+pip3 install requirements.txt 
+
 chmod 777 install.py
 
 chmod 777 mewtw0hack.py

@@ -13,7 +13,7 @@ Linux
 
 # How To Install ?
 
-sudo git clone https://github.com/alperenugurlu/mewt0_WebApp_Hack00.git
+sudo git clone https://github.com/alperenugurlu/mewtw0_WebApp_Hack00.git
 
 sudo apt-get update 
 

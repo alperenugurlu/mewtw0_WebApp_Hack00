@@ -32,6 +32,10 @@ chmod 777 mewtw0hack.py
 
 ./mewtw0hack.py
 
+Or
+
+./mewtw0hack.py > report.txt
+
 
 ![image](https://user-images.githubusercontent.com/64872731/160276103-96ce3683-5ef6-403b-b690-833d83197594.png)
 

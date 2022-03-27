@@ -16,10 +16,13 @@ Linux
 sudo git clone https://github.com/alperenugurlu/informationtool.git
 
 sudo apt-get update 
+
 sudo apt-get upgrade
+
 sudo apt-get python3
 
 chmod 777 install.py
+
 chmod 777 mewtw0hack.py
 
 ./install.py
